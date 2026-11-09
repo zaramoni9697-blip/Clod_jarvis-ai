@@ -1,0 +1,15 @@
+# Jarvis AI — Required Packages
+# Install: pip install -r requirements.txt
+
+# Voice Recognition
+SpeechRecognition>=3.10.0
+pyaudio>=0.2.14
+
+# Text-to-Speech
+pyttsx3>=2.90
+
+# AI Brain
+openai>=1.0.0
+
+# Optional: Better audio on Linux
+# pipwin  # Windows-এ PyAudio install এর জন্য
